@@ -1,8 +1,8 @@
 # Hey, I'm João Lucas! 👋
 
-Backend Developer obsessed with building reliable, well-structured systems. I started coding at 14 and since then I've been focused on what happens under the hood — APIs, databases, queues, architecture. I love when the backend is so solid that the frontend team has nothing to complain about. 🚀
+Backend Developer obsessed with building reliable, well-structured systems. I started coding at 14 and since then I've been focused on what happens under the hood: APIs, databases, queues, architecture and more. I love when the backend is so solid that the frontend team has nothing to complain about. 🚀
 
-I specialize in **Laravel** and build real SaaS products: multi-tenant APIs, role-based access control, async job processing, and clean architecture that doesn't fall apart when the project grows.
+I specialize in **Laravel** and build real products: multi-tenant APIs, role-based access control, async job processing, and clean architecture that doesn't fall apart when the project grows.
 
 ---
 
@@ -64,8 +64,8 @@ I specialize in **Laravel** and build real SaaS products: multi-tenant APIs, rol
 
 📧 joaolucasvlima7@gmail.com  
 📱 +55 (83) 9 99635-4655  
-📍 Cabedelo, PB — Brazil · Available for remote work
+📍 João Pessoa, PB — Brazil · Available for remote, presential or hybrid work.
 
 ---
 
-*Open to freelance and challenging backend projects* 🤝
+*Open to work and challenging backend projects* 🤝
