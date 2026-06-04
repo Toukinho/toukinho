@@ -1,0 +1,71 @@
+# Hey, I'm João Lucas! 👋
+
+Backend Developer obsessed with building reliable, well-structured systems. I started coding at 14 and since then I've been focused on what happens under the hood — APIs, databases, queues, architecture. I love when the backend is so solid that the frontend team has nothing to complain about. 🚀
+
+I specialize in **Laravel** and build real SaaS products: multi-tenant APIs, role-based access control, async job processing, and clean architecture that doesn't fall apart when the project grows.
+
+---
+
+## 🛠️ My Stack
+
+**Core**
+
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+
+**Laravel Ecosystem**
+
+![Livewire](https://img.shields.io/badge/Livewire-4E56A6?style=flat-square&logo=livewire&logoColor=white)
+![Sanctum](https://img.shields.io/badge/Sanctum-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+![Filament](https://img.shields.io/badge/Filament-FDAE4B?style=flat-square&logoColor=white)
+![Pest](https://img.shields.io/badge/Pest-16A34A?style=flat-square&logoColor=white)
+
+**Tools & Infra**
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+
+**Also deliver when needed**
+
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+
+---
+
+## 🏗️ What I Build
+
+- **Multi-tenant SaaS** — isolated workspaces, subdomain routing, shared database architecture
+- **REST APIs** — Sanctum auth, rate limiting, centralized error handling, versioning
+- **Async processing** — Redis queues, background jobs, event-driven flows
+- **Access control** — role & permission systems with Spatie Permission
+- **Admin panels** — Filament + Livewire when the project needs it
+
+---
+
+## 🚀 Live Projects
+
+| Project | Stack | Impact |
+|---|---|---|
+| **KRONER Foods — Ops System** | Laravel + Livewire + Flutter | Full logistics backend + web panel + mobile app — in production at a food factory |
+| **Medical Records System** | Laravel + Livewire + WhatsApp API | Automated patient communication, replaced a fully manual process — in production |
+
+---
+
+## ✅ How I Work
+
+`TDD` · `Clean Architecture` · `Conventional Commits` · `REST APIs` · `Multi-tenant` · `Queues & Jobs` · `Centralized Error Handling`
+
+---
+
+## 📫 Let's talk?
+
+📧 joaolucasvlima7@gmail.com  
+📱 +55 (83) 9 99635-4655  
+📍 Cabedelo, PB — Brazil · Available for remote work
+
+---
+
+*Open to freelance and challenging backend projects* 🤝
