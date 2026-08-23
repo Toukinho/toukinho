@@ -60,6 +60,27 @@ I specialize in **Laravel** and build real products: multi-tenant APIs, role-bas
 
 ---
 
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=toukinho&show_icons=true&theme=default&hide_border=true&count_private=true" alt="toukinho's GitHub stats" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=toukinho&hide_border=true" alt="toukinho's GitHub streak" height="165"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=toukinho&layout=compact&hide_border=true&langs_count=8" alt="Top languages" />
+</p>
+
+---
+
+## 🎯 Currently
+
+- 🔭 Building and maintaining the KRONER Foods ops system in production
+- 📚 Deepening event-driven architecture and queue-based scaling patterns
+- 🤝 Open to backend collaborations and freelance projects
+
+---
+
 ## 📫 Let's talk?
 
 📧 joaolucasvlima7@gmail.com  
