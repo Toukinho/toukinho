@@ -1,92 +1,120 @@
-# Hey, I'm João Lucas! 👋
-
-Backend Developer obsessed with building reliable, well-structured systems. I started coding at 14 and since then I've been focused on what happens under the hood: APIs, databases, queues, architecture and more. I love when the backend is so solid that the frontend team has nothing to complain about. 🚀
-
-I specialize in **Laravel** and build real products: multi-tenant APIs, role-based access control, async job processing, and clean architecture that doesn't fall apart when the project grows.
-
----
-
-## 🛠️ My Stack
-
-**Core**
-
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-
-**Laravel Ecosystem**
-
-![Livewire](https://img.shields.io/badge/Livewire-4E56A6?style=flat-square&logo=livewire&logoColor=white)
-![Sanctum](https://img.shields.io/badge/Sanctum-FF2D20?style=flat-square&logo=laravel&logoColor=white)
-![Filament](https://img.shields.io/badge/Filament-FDAE4B?style=flat-square&logoColor=white)
-![Pest](https://img.shields.io/badge/Pest-16A34A?style=flat-square&logoColor=white)
-
-**Tools & Infra**
-
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-
-**Also deliver when needed**
-
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-
----
-
-## 🏗️ What I Build
-
-- **Multi-tenant SaaS** — isolated workspaces, subdomain routing, shared database architecture
-- **REST APIs** — Sanctum auth, rate limiting, centralized error handling, versioning
-- **Async processing** — Redis queues, background jobs, event-driven flows
-- **Access control** — role & permission systems with Spatie Permission
-- **Admin panels** — Filament + Livewire when the project needs it
-
----
-
-## 🚀 Live Projects
-
-| Project | Stack | Impact |
-|---|---|---|
-| **KRONER Foods — Ops System** | Laravel + Livewire + Flutter | Full logistics backend + web panel + mobile app — in production at a food factory |
-| **Medical Records System** | Laravel + Livewire + WhatsApp API | Automated patient communication, replaced a fully manual process — in production |
-
----
-
-## ✅ How I Work
-
-`TDD` · `Clean Architecture` · `Conventional Commits` · `REST APIs` · `Multi-tenant` · `Queues & Jobs` · `Centralized Error Handling`
-
----
-
-## 📊 GitHub Stats
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=toukinho&show_icons=true&theme=default&hide_border=true&count_private=true" alt="toukinho's GitHub stats" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=toukinho&hide_border=true" alt="toukinho's GitHub streak" height="165"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=7C3AED&height=200&section=header&text=Backend%20Developer&fontSize=48&fontColor=FFFFFF&fontAlignY=38&desc=Laravel%20%7C%20PHP%20%7C%20APIs&descSize=20&descAlignY=58" alt="Backend Developer. Laravel, PHP, APIs." />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=toukinho&layout=compact&hide_border=true&langs_count=8" alt="Top languages" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1500&color=A78BFA&center=true&width=520&lines=Multi-tenant+APIs;Queues+and+async+jobs;Access+control+and+clean+architecture" alt="Multi-tenant APIs. Queues and async jobs. Access control and clean architecture." />
 </p>
 
----
+I'm João Lucas, a backend developer from João Pessoa, Brazil. I started out making games. What hooked me was the logic underneath: state, rules, and what happens when something breaks. That led me to backend, and Laravel became my main tool.
 
-## 🎯 Currently
+I freelance, I study, and I'm about to start my first internship. I build multi-tenant APIs, role-based access control, and async job processing. The parts I care about most are the schema, the retry logic, and an API contract the frontend can trust.
 
-- 🔭 Building and maintaining the KRONER Foods ops system in production
-- 📚 Deepening event-driven architecture and queue-based scaling patterns
-- 🤝 Open to backend collaborations and freelance projects
+## Stack
 
----
+<table>
+<tr>
+<td valign="top" width="50%">
 
-## 📫 Let's talk?
+<details open>
+<summary><b>Languages</b></summary>
+<br>
 
-📧 joaolucasvlima7@gmail.com  
-📱 +55 (83) 9 99635-4655  
-📍 João Pessoa, PB — Brazil · Available for remote, presential or hybrid work.
+<img src="https://skillicons.dev/icons?i=php,js,py,java,c&theme=dark" alt="PHP, JavaScript, Python, Java, C" />
 
----
+</details>
 
-*Open to work and challenging backend projects* 🤝
+<details open>
+<summary><b>Backend</b></summary>
+<br>
+
+<img src="https://skillicons.dev/icons?i=laravel&theme=dark" alt="Laravel" />
+
+![Sanctum](https://img.shields.io/badge/Sanctum-7C3AED?style=flat-square)
+![Filament](https://img.shields.io/badge/Filament-7C3AED?style=flat-square)
+![Horizon](https://img.shields.io/badge/Horizon-7C3AED?style=flat-square)
+![Telescope](https://img.shields.io/badge/Telescope-7C3AED?style=flat-square)
+![Octane](https://img.shields.io/badge/Octane-7C3AED?style=flat-square)
+
+</details>
+
+<details open>
+<summary><b>Databases</b></summary>
+<br>
+
+<img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite,mongodb,elasticsearch,redis&theme=dark" alt="MySQL, PostgreSQL, SQLite, MongoDB, Elasticsearch, Redis" />
+
+</details>
+
+<details open>
+<summary><b>Testing</b></summary>
+<br>
+
+![Pest](https://img.shields.io/badge/Pest-7C3AED?style=flat-square)
+![PHPUnit](https://img.shields.io/badge/PHPUnit-7C3AED?style=flat-square)
+![PHPStan](https://img.shields.io/badge/PHPStan%20%2F%20Larastan-7C3AED?style=flat-square)
+
+</details>
+
+</td>
+<td valign="top" width="50%">
+
+<details open>
+<summary><b>Frontend</b></summary>
+<br>
+
+<img src="https://skillicons.dev/icons?i=html,css,tailwind,js,alpinejs&theme=dark" alt="HTML, CSS, Tailwind CSS, JavaScript, Alpine.js" />
+
+![Livewire](https://img.shields.io/badge/Livewire-7C3AED?style=flat-square)
+![Blade](https://img.shields.io/badge/Blade-7C3AED?style=flat-square)
+
+</details>
+
+<details open>
+<summary><b>Infra</b></summary>
+<br>
+
+<img src="https://skillicons.dev/icons?i=linux,nginx,docker,githubactions,aws&theme=dark" alt="Linux, Nginx, Docker, GitHub Actions, AWS" />
+
+![Hostinger](https://img.shields.io/badge/Hostinger-7C3AED?style=flat-square)
+
+</details>
+
+<details open>
+<summary><b>Tools</b></summary>
+<br>
+
+<img src="https://skillicons.dev/icons?i=git,postman,flutter&theme=dark" alt="Git, Postman, Flutter" />
+
+![Swagger](https://img.shields.io/badge/Swagger-7C3AED?style=flat-square)
+
+</details>
+
+<details open>
+<summary><b>Practices</b></summary>
+<br>
+
+![TDD](https://img.shields.io/badge/TDD-7C3AED?style=flat-square)
+![Clean Architecture](https://img.shields.io/badge/Clean%20Architecture-7C3AED?style=flat-square)
+![SOLID](https://img.shields.io/badge/SOLID-7C3AED?style=flat-square)
+![Design Patterns](https://img.shields.io/badge/Design%20Patterns-7C3AED?style=flat-square)
+![DDD](https://img.shields.io/badge/DDD-7C3AED?style=flat-square)
+![Conventional Commits](https://img.shields.io/badge/Conventional%20Commits-7C3AED?style=flat-square)
+![Code Review](https://img.shields.io/badge/Code%20Review-7C3AED?style=flat-square)
+![Git Flow](https://img.shields.io/badge/Git%20Flow-7C3AED?style=flat-square)
+
+</details>
+
+</td>
+</tr>
+</table>
+
+## Contact
+
+LinkedIn: https://www.linkedin.com/in/joaolucasvieiralima  
+Email: joaolucasvlima7@gmail.com  
+João Pessoa, PB, Brazil. Open to remote, on-site, or hybrid work.
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=7C3AED&height=100&section=footer" alt="" />
+</p>
