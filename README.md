@@ -116,5 +116,12 @@ Email: joaolucasvlima7@gmail.com
 João Pessoa, PB, Brazil. Open to remote, on-site, or hybrid work.
 
 <p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/toukinho/toukinho/output/snake-dark.svg">
+    <img alt="Contribution graph snake" src="https://raw.githubusercontent.com/toukinho/toukinho/output/snake.svg">
+  </picture>
+</p>
+
+<p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=7C3AED&height=100&section=footer" alt="" />
 </p>
